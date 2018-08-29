@@ -1,0 +1,17 @@
+{
+  "name": "points",
+  "version": "1.0.0",
+  "description": "points and leveling bot. nothing cool here.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oregonian Pyro#0001",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.0.6",
+    "moment": "^2.22.2"
+  }
+}
